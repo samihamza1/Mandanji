@@ -23,3 +23,17 @@ numpy>=1.26.0
 python-multipart>=0.0.9
 jq>=1.6.0
 typer>=0.9.0
+# AI Investment Agent dependencies
+tensorflow>=2.15.0
+scikit-learn>=1.4.0
+alpaca-py>=0.8.2
+python-binance>=1.0.19
+matplotlib>=3.8.0
+plotly>=5.19.0
+joblib>=1.3.2
+celery>=5.3.6
+redis>=5.0.1
+transformers>=4.38.0
+nltk>=3.8.1
+textblob>=0.17.1
+yfinance>=0.2.36
